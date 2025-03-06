@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- ![Leetcode Stats](https://leetcard.jacoblin.cool/Ankit Singh?ext=heatmap)
+- ![Leetcode Stats](https://leetcard.jacoblin.cool/AnkitSingh?ext=heatmap)
 
 <!---
 ankitsingh2004/ankitsingh2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
