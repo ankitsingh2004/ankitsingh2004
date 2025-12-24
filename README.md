@@ -31,8 +31,10 @@ GUI-based system monitor with scheduling & process control
 👉 Tech: Python, Tkinter, OS concepts  
 
 🔹 Real-Time Collaborative Code Editor
+
 Live multi-user editing, syntax highlighting, room-based collaboration, real-time cursor & code sync
-👉 Tech: React, Node.js, Socket.IO, MongoDB
+👉 Tech: React, Node.js, Socket.IO, MongoDB.
+
 ---
 
 ## 📫 Contact Me
